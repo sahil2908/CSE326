@@ -84,7 +84,7 @@ footer {
 
 
 .blog-content {
-    margin: 25px 28rem 75px;
+    margin: 1.5rem 28rem 6.68rem;
     font-family: 'EB Garamond';font-size: 22px;
 }
 
@@ -92,8 +92,12 @@ footer {
     padding-bottom: 2rem;
 }
 
+.blog-content h3{
+    padding-bottom: 1rem;
+}
+
 .blog-head {
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
     text-align: left;
     padding-left: 28rem;
     font-size: 28px;
@@ -105,3 +109,4 @@ footer {
     /* padding-left: 28rem; */
     font-size: 28px;
 }
+
